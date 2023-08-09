@@ -10,7 +10,7 @@
   "keywords": [
     "\"to-do\""
   ],
-  "author": "Pragyaratan",
+  "author": "Pankaj Pandey",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
